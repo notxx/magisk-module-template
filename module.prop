@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=spn-conf
+name=systemless spn-conf.xml
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=notXX
+description=add spn-conf.xml to /system
 minMagisk=1500
